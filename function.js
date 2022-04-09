@@ -40,8 +40,8 @@ let agecal = (naam,age) => {
 
 
 const Areacal = (Name,a,b) =>{
-       Area=0
-       Aname='';
+      let  Area=0
+      let  Aname='';
 
         if(Name == 'r'){
              Aname='Rectangle'
