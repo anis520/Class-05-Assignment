@@ -69,7 +69,7 @@ const Areacal = (Name,a,b) =>{
  */ 
 
 
-function gpaGradCal(mark) {
+const gpaGradCal= (mark) => {
       
            let grade='';
            let gpa='';
